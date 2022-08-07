@@ -1,2 +1,2 @@
-# Fiverr-spammers-detection-
-A model to classify fiverr users to being a spammer or not
+# Fiverr-spammers-detection
+## look at the steps a new user takes on Fiverr before and during registration, and predict which of them will become spammers.
